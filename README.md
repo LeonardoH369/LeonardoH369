@@ -1,6 +1,6 @@
 Hola, soy Leonardo Hinojosa Castro 
 
-Estudiante de **Ingeniería en Desarrollo de Software** en Tecmilenio (Monterrey, N.L.) con enfoque en **redes, infraestructura y ciberseguridad**. Certificado en AWS Data Engineering y en proceso de obtener el CCNA. Busco mi primera práctica profesional en IT, Networking o Análisis de Datos.
+Estudiante de **Ingeniería en Desarrollo de Software** en Tecmilenio (Monterrey, N.L.) con enfoque en **redes, infraestructura y ciberseguridad**. Certificado en AWS Data Engineering y en proceso de obtener el CCNA.
 
 ---
 
